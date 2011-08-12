@@ -1,0 +1,5 @@
+The design's source structure:
+
+/templates/name.liquid.html
+/includes
+/assets
